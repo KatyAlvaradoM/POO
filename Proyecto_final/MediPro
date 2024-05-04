@@ -1,1 +1,8 @@
 
+1. Para poder visualizar la aplicación se necesita instalar una aplicación móvil llamada "Expo go": https://play.google.com/store/apps/details?id=host.exp.exponent.
+
+2. En la terminal de visual Studio Code se debe ejecutar los siguientes comandos: "cd app-tasks" (para ejecutar lo demás dentro de la carpeta del proyecto). 
+Luego "npx expo start" (para inicializar).
+
+3. En la aplicación móvil Expo go, se tienen 2 opciones para poder ingresar al proyecto, una es ingresar la URL manualmente o escanear el código QR. 
+Se utiliza cualquiera de estas opciones y con esto ya se puede ingresar a la interfaz de MediPro.
